@@ -1,0 +1,294 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/run/media/jz/Windows-SSD/Users/79130/Downloads/cs3050/src/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+ADD	opcode.h	/^#define ADD /;"	d
+ADDI	opcode.h	/^#define ADDI /;"	d
+ADDIU	opcode.h	/^#define ADDIU /;"	d
+ADDU	opcode.h	/^#define ADDU /;"	d
+AND	opcode.h	/^#define AND /;"	d
+ANDI	opcode.h	/^#define ANDI /;"	d
+BEQ	opcode.h	/^#define BEQ /;"	d
+BGEZ	opcode.h	/^#define BGEZ /;"	d
+BGTZ	opcode.h	/^#define BGTZ /;"	d
+BLEZ	opcode.h	/^#define BLEZ /;"	d
+BLTZ	opcode.h	/^#define BLTZ /;"	d
+BNE	opcode.h	/^#define BNE /;"	d
+CFLAGS	Makefile	/^CFLAGS = -g -Wall -Werror$/;"	m
+DIV	opcode.h	/^#define DIV /;"	d
+DIVU	opcode.h	/^#define DIVU /;"	d
+FIB_MID	fibtest/fib.asm	/^FIB_MID: .asciiz ") = "$/;"	l
+FIB_MID	tests/fib/fib.asm	/^FIB_MID: .asciiz ") = "$/;"	l
+FIB_START	fibtest/fib.asm	/^FIB_START: .asciiz "fib("$/;"	l
+FIB_START	tests/fib/fib.asm	/^FIB_START: .asciiz "fib("$/;"	l
+HELLO	tests/memcpy-hello-world/memcpy-hello-world.asm	/^HELLO: .ascii "hello, world\\n"$/;"	l
+INSTRUCTION_H	instruction.h	/^#define INSTRUCTION_H$/;"	d
+J	opcode.h	/^#define J /;"	d
+JAL	opcode.h	/^#define JAL /;"	d
+JALR	opcode.h	/^#define JALR /;"	d
+JR	opcode.h	/^#define JR /;"	d
+LB	opcode.h	/^#define LB /;"	d
+LBU	opcode.h	/^#define LBU /;"	d
+LENGTH	tests/memcpy-hello-world/memcpy-hello-world.asm	/^LENGTH: .word 13$/;"	l
+LH	opcode.h	/^#define LH /;"	d
+LHU	opcode.h	/^#define LHU /;"	d
+LINE_END	fibtest/fib.asm	/^LINE_END: .asciiz "\\n"$/;"	l
+LINE_END	tests/fib/fib.asm	/^LINE_END: .asciiz "\\n"$/;"	l
+LUI	opcode.h	/^#define LUI /;"	d
+LW	opcode.h	/^#define LW /;"	d
+LWL	opcode.h	/^#define LWL /;"	d
+LWR	opcode.h	/^#define LWR /;"	d
+MFHI	opcode.h	/^#define MFHI /;"	d
+MFLO	opcode.h	/^#define MFLO /;"	d
+MTHI	opcode.h	/^#define MTHI /;"	d
+MTLO	opcode.h	/^#define MTLO /;"	d
+MULT	opcode.h	/^#define MULT /;"	d
+MULTU	opcode.h	/^#define MULTU /;"	d
+NOR	opcode.h	/^#define NOR /;"	d
+OBJS	Makefile	/^OBJS = parser.o instruction.o main.o$/;"	m
+OPCODE_H	opcode.h	/^#define OPCODE_H$/;"	d
+OR	opcode.h	/^#define OR /;"	d
+ORI	opcode.h	/^#define ORI /;"	d
+PARSER_H	parser.h	/^#define PARSER_H$/;"	d
+SB	opcode.h	/^#define SB /;"	d
+SH	opcode.h	/^#define SH /;"	d
+SIGNEX	instruction.c	/^static uint32_t SIGNEX(uint32_t val, uint32_t offset)$/;"	f	typeref:typename:uint32_t	file:
+SLL	opcode.h	/^#define SLL /;"	d
+SLLV	opcode.h	/^#define SLLV /;"	d
+SLT	opcode.h	/^#define SLT /;"	d
+SLTI	opcode.h	/^#define SLTI /;"	d
+SLTIU	opcode.h	/^#define SLTIU /;"	d
+SLTU	opcode.h	/^#define SLTU /;"	d
+SRA	opcode.h	/^#define SRA /;"	d
+SRAV	opcode.h	/^#define SRAV /;"	d
+SRL	opcode.h	/^#define SRL /;"	d
+SRLV	opcode.h	/^#define SRLV /;"	d
+SUB	opcode.h	/^#define SUB /;"	d
+SUBU	opcode.h	/^#define SUBU /;"	d
+SW	opcode.h	/^#define SW /;"	d
+SWL	opcode.h	/^#define SWL /;"	d
+SWR	opcode.h	/^#define SWR /;"	d
+SYSCALL	opcode.h	/^#define SYSCALL /;"	d
+XOR	opcode.h	/^#define XOR /;"	d
+XORI	opcode.h	/^#define XORI /;"	d
+__builtin_memcpy	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy: $/;"	l
+__builtin_memcpy_aligned_large	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_aligned_large:$/;"	l
+__builtin_memcpy_bytes	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_bytes: $/;"	l
+__builtin_memcpy_check	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_check:$/;"	l
+__builtin_memcpy_prepare	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_prepare: $/;"	l
+__builtin_memcpy_return	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_return:$/;"	l
+__builtin_memcpy_unaligned_large	tests/memcpy-hello-world/memcpy-hello-world.asm	/^__builtin_memcpy_unaligned_large:$/;"	l
+add	fibtest/fib.asm	/^add $a0, $zero, $s1$/;"	l
+add	fibtest/fib.asm	/^add $a0, $zero, $v0$/;"	l
+add	fibtest/fib.asm	/^add $s0, $a0, $zero$/;"	l
+add	fibtest/fib.asm	/^add $s1, $zero, $v0$/;"	l
+add	fibtest/fib.asm	/^add $v0, $s1, $v0$/;"	l
+add	lwlr_swlr_1/lwlr_swlr_1.asm	/^add $a0, $zero, $s2$/;"	l
+add	lwlr_swlr_2/lwlr_swlr_2.asm	/^add $a0, $zero, $s2$/;"	l
+add	tests/a-plus-b/a-plus-b.asm	/^add $a0, $t1, $t0$/;"	l
+add	tests/a-plus-b/a-plus-b.asm	/^add $t0, $zero, $v0$/;"	l
+add	tests/a-plus-b/a-plus-b.asm	/^add $t1, $zero, $v0$/;"	l
+add	tests/fib/fib.asm	/^add $a0, $zero, $s1$/;"	l
+add	tests/fib/fib.asm	/^add $a0, $zero, $v0$/;"	l
+add	tests/fib/fib.asm	/^add $s0, $a0, $zero$/;"	l
+add	tests/fib/fib.asm	/^add $s1, $zero, $v0$/;"	l
+add	tests/fib/fib.asm	/^add $v0, $s1, $v0$/;"	l
+add	tests/lw_sw/lw_sw.asm	/^add $s1, $s0, $zero$/;"	l
+addi	fibtest/fib.asm	/^addi $a0, $s0, -1$/;"	l
+addi	fibtest/fib.asm	/^addi $a0, $s0, -2$/;"	l
+addi	fibtest/fib.asm	/^addi $sp, $sp, -12 # 26$/;"	l
+addi	fibtest/fib.asm	/^addi $sp, $sp, 12$/;"	l
+addi	fibtest/fib.asm	/^addi $v0, $zero, 1$/;"	l
+addi	fibtest/fib.asm	/^addi $v0, $zero, 10$/;"	l
+addi	fibtest/fib.asm	/^addi $v0, $zero, 4$/;"	l
+addi	fibtest/fib.asm	/^addi $v0, $zero, 5$/;"	l
+addi	lwlr_swlr_1/lwlr_swlr_1.asm	/^addi $s1, $s0, 8$/;"	l
+addi	lwlr_swlr_1/lwlr_swlr_1.asm	/^addi $v0, $zero, 1$/;"	l
+addi	lwlr_swlr_1/lwlr_swlr_1.asm	/^addi $v0, $zero, 10$/;"	l
+addi	lwlr_swlr_2/lwlr_swlr_2.asm	/^addi $s1, $s0, 8$/;"	l
+addi	lwlr_swlr_2/lwlr_swlr_2.asm	/^addi $v0, $zero, 1$/;"	l
+addi	lwlr_swlr_2/lwlr_swlr_2.asm	/^addi $v0, $zero, 10$/;"	l
+addi	tests/a-plus-b/a-plus-b.asm	/^addi $v0, $zero, 1$/;"	l
+addi	tests/a-plus-b/a-plus-b.asm	/^addi $v0, $zero, 10$/;"	l
+addi	tests/a-plus-b/a-plus-b.asm	/^addi $v0, $zero, 5$/;"	l
+addi	tests/fib/fib.asm	/^addi $a0, $s0, -1$/;"	l
+addi	tests/fib/fib.asm	/^addi $a0, $s0, -2$/;"	l
+addi	tests/fib/fib.asm	/^addi $sp, $sp, -12 # 26$/;"	l
+addi	tests/fib/fib.asm	/^addi $sp, $sp, 12$/;"	l
+addi	tests/fib/fib.asm	/^addi $v0, $zero, 1$/;"	l
+addi	tests/fib/fib.asm	/^addi $v0, $zero, 10$/;"	l
+addi	tests/fib/fib.asm	/^addi $v0, $zero, 4$/;"	l
+addi	tests/fib/fib.asm	/^addi $v0, $zero, 5$/;"	l
+addi	tests/lw_sw/lw_sw.asm	/^addi $v0, $zero, 10$/;"	l
+addu	fibtest/fib.asm	/^addu $a0, $s1, $zero$/;"	l
+addu	tests/fib/fib.asm	/^addu $a0, $s1, $zero$/;"	l
+bne	fibtest/fib.asm	/^bne $t7, $zero, fibonacciExit # 33$/;"	l
+bne	tests/fib/fib.asm	/^bne $t7, $zero, fibonacciExit # 33$/;"	l
+byte	tests/many/many.asm	/^byte: .byte 1,2,3,4					#at 0x0050014c$/;"	l
+checkpoint_memory	parser.c	/^void checkpoint_memory(int ins_count)$/;"	f	typeref:typename:void
+checkpoint_register	load.c	/^void checkpoint_register(const char *filename)$/;"	f	typeref:typename:void
+checkpoint_register	parser.c	/^void checkpoint_register(int ins_count)$/;"	f	typeref:typename:void
+checkpoints	parser.c	/^int checkpoints[100] = {0};$/;"	v	typeref:typename:int[100]
+clean	Makefile	/^clean:$/;"	t
+exec_i	instruction.c	/^void exec_i(uint32_t inst)$/;"	f	typeref:typename:void
+exec_j	instruction.c	/^void exec_j(uint32_t inst)$/;"	f	typeref:typename:void
+exec_r	instruction.c	/^void exec_r(uint32_t inst)$/;"	f	typeref:typename:void
+execute	instruction.c	/^void execute()$/;"	f	typeref:typename:void
+fibonacci	fibtest/fib.asm	/^fibonacci:$/;"	l
+fibonacci	tests/fib/fib.asm	/^fibonacci:$/;"	l
+fibonacciExit	fibtest/fib.asm	/^fibonacciExit:$/;"	l
+fibonacciExit	tests/fib/fib.asm	/^fibonacciExit:$/;"	l
+funct_mask	instruction.c	/^static const uint32_t funct_mask = 0b111111;$/;"	v	typeref:typename:const uint32_t	file:
+half	tests/many/many.asm	/^half: .half 1,2						#at 0x00500148$/;"	l
+init_checkpoints	parser.c	/^void init_checkpoints(const char *checkpoint_file)$/;"	f	typeref:typename:void
+init_registers	main.c	/^void init_registers()$/;"	f	typeref:typename:void
+ins_count	instruction.c	/^int ins_count = 0;$/;"	v	typeref:typename:int
+jal	fibtest/fib.asm	/^jal fibonacci # 35$/;"	l
+jal	fibtest/fib.asm	/^jal fibonacci$/;"	l
+jal	tests/fib/fib.asm	/^jal fibonacci # 35$/;"	l
+jal	tests/fib/fib.asm	/^jal fibonacci$/;"	l
+jr	fibtest/fib.asm	/^jr $ra$/;"	l
+jr	tests/fib/fib.asm	/^jr $ra$/;"	l
+load_data	parser.c	/^void load_data(const char *filename) $/;"	f	typeref:typename:void
+lui	fibtest/fib.asm	/^lui $at, 80$/;"	l
+lui	lwlr_swlr_1/lwlr_swlr_1.asm	/^lui $t2, 80 # loading\/storing in memory-order. Both lwlr_swlr_1 and lwlr_swlr_2 are considered /;"	l
+lui	lwlr_swlr_2/lwlr_swlr_2.asm	/^lui $t2, 80 # loading\/storing in data-order. Both lwlr_swlr_1 and lwlr_swlr_2 are considered co/;"	l
+lui	tests/fib/fib.asm	/^lui $at, 80$/;"	l
+lui	tests/lw_sw/lw_sw.asm	/^lui $t2, 80 # these lines give demo on how lw\/lb\/lh and sw\/sb\/sh works$/;"	l
+lw	fibtest/fib.asm	/^lw $ra, 8($sp)$/;"	l
+lw	fibtest/fib.asm	/^lw $s0, 4($sp)$/;"	l
+lw	fibtest/fib.asm	/^lw $s1, 0($sp)$/;"	l
+lw	tests/fib/fib.asm	/^lw $ra, 8($sp)$/;"	l
+lw	tests/fib/fib.asm	/^lw $s0, 4($sp)$/;"	l
+lw	tests/fib/fib.asm	/^lw $s1, 0($sp)$/;"	l
+lw	tests/lw_sw/lw_sw.asm	/^lw $s0, 0($s0) $/;"	l
+lwl	lwlr_swlr_1/lwlr_swlr_1.asm	/^lwl $s2, 1($s0) $/;"	l
+lwl	lwlr_swlr_2/lwlr_swlr_2.asm	/^lwl $s2, 4($s0) $/;"	l
+lwr	lwlr_swlr_1/lwlr_swlr_1.asm	/^lwr $s2, 4($s0) $/;"	l
+lwr	lwlr_swlr_2/lwlr_swlr_2.asm	/^lwr $s2, 1($s0) $/;"	l
+main	load.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	main.c	/^int main(int argc, char **argv)$/;"	f	typeref:typename:int
+main	tests/many/many.asm	/^main:	$/;"	l
+memory	main.c	/^uint8_t *memory = NULL;$/;"	v	typeref:typename:uint8_t *
+memory_translate	instruction.c	/^uint32_t memory_translate(uint32_t addr)$/;"	f	typeref:typename:uint32_t
+mips_add	instruction.c	/^void mips_add(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_addi	instruction.c	/^void mips_addi(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_addiu	instruction.c	/^void mips_addiu(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_addu	instruction.c	/^void mips_addu(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_and	instruction.c	/^void mips_and(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_andi	instruction.c	/^void mips_andi(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_beq	instruction.c	/^void mips_beq(uint32_t rs, uint32_t rt, uint32_t offset)$/;"	f	typeref:typename:void
+mips_bgtz	instruction.c	/^void mips_bgtz(uint32_t rs, uint32_t offset)$/;"	f	typeref:typename:void
+mips_blez	instruction.c	/^void mips_blez(uint32_t rs, uint32_t offset)$/;"	f	typeref:typename:void
+mips_bne	instruction.c	/^void mips_bne(uint32_t rs, uint32_t rt, uint32_t offset)$/;"	f	typeref:typename:void
+mips_div	instruction.c	/^void mips_div(uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_divu	instruction.c	/^void mips_divu(uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_j	instruction.c	/^void mips_j(uint32_t offset)$/;"	f	typeref:typename:void
+mips_jal	instruction.c	/^void mips_jal(uint32_t offset)$/;"	f	typeref:typename:void
+mips_jalr	instruction.c	/^void mips_jalr(uint32_t rs)$/;"	f	typeref:typename:void
+mips_jr	instruction.c	/^void mips_jr(uint32_t rs)$/;"	f	typeref:typename:void
+mips_lb	instruction.c	/^void mips_lb(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_lbu	instruction.c	/^void mips_lbu(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_lh	instruction.c	/^void mips_lh(uint32_t rt,  uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_lhu	instruction.c	/^void mips_lhu(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_lui	instruction.c	/^void mips_lui(uint32_t rt, uint32_t imm)$/;"	f	typeref:typename:void
+mips_lw	instruction.c	/^void mips_lw(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_lwl	instruction.c	/^void mips_lwl(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_lwr	instruction.c	/^void mips_lwr(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_mfhi	instruction.c	/^void mips_mfhi(uint32_t rd)$/;"	f	typeref:typename:void
+mips_mflo	instruction.c	/^void mips_mflo(uint32_t rd)$/;"	f	typeref:typename:void
+mips_mthi	instruction.c	/^void mips_mthi(uint32_t rs)$/;"	f	typeref:typename:void
+mips_mtlo	instruction.c	/^void mips_mtlo(uint32_t rs)$/;"	f	typeref:typename:void
+mips_mult	instruction.c	/^void mips_mult(uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_multu	instruction.c	/^void mips_multu(uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_nor	instruction.c	/^void mips_nor(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_or	instruction.c	/^void mips_or(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_ori	instruction.c	/^void mips_ori(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_sb	instruction.c	/^void mips_sb(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_sh	instruction.c	/^void mips_sh(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_sll	instruction.c	/^void mips_sll(uint32_t rd, uint32_t rt, uint32_t sa)$/;"	f	typeref:typename:void
+mips_sllv	instruction.c	/^void mips_sllv(uint32_t rd, uint32_t rt, uint32_t rs)$/;"	f	typeref:typename:void
+mips_slt	instruction.c	/^void mips_slt(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_slti	instruction.c	/^void mips_slti(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_sltiu	instruction.c	/^void mips_sltiu(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_sltu	instruction.c	/^void mips_sltu(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_sra	instruction.c	/^void mips_sra(uint32_t rd, uint32_t rt, uint32_t sa)$/;"	f	typeref:typename:void
+mips_srav	instruction.c	/^void mips_srav(uint32_t rd, uint32_t rt, uint32_t rs)$/;"	f	typeref:typename:void
+mips_srl	instruction.c	/^void mips_srl(uint32_t rd, uint32_t rt, uint32_t sa)$/;"	f	typeref:typename:void
+mips_srlv	instruction.c	/^void mips_srlv(uint32_t rd, uint32_t rt, uint32_t rs)$/;"	f	typeref:typename:void
+mips_sub	instruction.c	/^void mips_sub(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_subu	instruction.c	/^void mips_subu(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_sw	instruction.c	/^void mips_sw(uint32_t rt, uint32_t rs, uint32_t imm)$/;"	f	typeref:typename:void
+mips_swl	instruction.c	/^void mips_swl(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_swr	instruction.c	/^void mips_swr(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+mips_syscall	instruction.c	/^void mips_syscall()$/;"	f	typeref:typename:void
+mips_xor	instruction.c	/^void mips_xor(uint32_t rd, uint32_t rs, uint32_t rt)$/;"	f	typeref:typename:void
+mips_xori	instruction.c	/^void mips_xori(uint32_t rt, uint32_t rs,  uint32_t imm)$/;"	f	typeref:typename:void
+num	tests/a-plus-b/a-plus-b.asm	/^num: .word 13$/;"	l
+num	tests/lw_sw/lw_sw.asm	/^num: .word 13$/;"	l
+num1	lwlr_swlr_1/lwlr_swlr_1.asm	/^num1: .word 256, 255$/;"	l
+num1	lwlr_swlr_2/lwlr_swlr_2.asm	/^num1: .word 256, 255$/;"	l
+ori	fibtest/fib.asm	/^ori $a0, $at, 0$/;"	l
+ori	fibtest/fib.asm	/^ori $a0, $at, 16$/;"	l
+ori	fibtest/fib.asm	/^ori $a0, $at, 8$/;"	l
+ori	lwlr_swlr_1/lwlr_swlr_1.asm	/^ori $s0, $t2, 0 $/;"	l
+ori	lwlr_swlr_2/lwlr_swlr_2.asm	/^ori $s0, $t2, 0 $/;"	l
+ori	tests/fib/fib.asm	/^ori $a0, $at, 0$/;"	l
+ori	tests/fib/fib.asm	/^ori $a0, $at, 16$/;"	l
+ori	tests/fib/fib.asm	/^ori $a0, $at, 8$/;"	l
+ori	tests/lw_sw/lw_sw.asm	/^ori $s0, $t2, 0 $/;"	l
+pc	load.c	/^uint32_t pc;$/;"	v	typeref:typename:uint32_t
+pc	main.c	/^uint32_t pc = 0x400000;$/;"	v	typeref:typename:uint32_t
+points_counter	parser.c	/^int points_counter = 0;$/;"	v	typeref:typename:int
+program_break	instruction.c	/^uint32_t program_break = 0;$/;"	v	typeref:typename:uint32_t
+readbinary	parser.c	/^void readbinary(const char *filename)$/;"	f	typeref:typename:void
+reg_mask	instruction.c	/^static const uint32_t reg_mask = 0b11111;$/;"	v	typeref:typename:const uint32_t	file:
+registers	load.c	/^uint32_t registers[32];$/;"	v	typeref:typename:uint32_t[32]
+registers	main.c	/^uint32_t registers[32] = {0};$/;"	v	typeref:typename:uint32_t[32]
+rhi	instruction.c	/^uint32_t rhi = 0;$/;"	v	typeref:typename:uint32_t
+rhi	load.c	/^uint32_t rhi;$/;"	v	typeref:typename:uint32_t
+rlo	instruction.c	/^uint32_t rlo = 0;$/;"	v	typeref:typename:uint32_t
+rlo	load.c	/^uint32_t rlo;$/;"	v	typeref:typename:uint32_t
+simulator	Makefile	/^simulator: $(OBJS)$/;"	t
+slti	fibtest/fib.asm	/^slti $t7, $s0, 3$/;"	l
+slti	tests/fib/fib.asm	/^slti $t7, $s0, 3$/;"	l
+str1	tests/many/many.asm	/^str1: .asciiz "Testing lb,sb,read\/print_char, etc\\n"			#at 0x00500000$/;"	l
+str10	tests/many/many.asm	/^str10: .asciiz "\\nIf you see this, your fileIOs are cool!"	#at 0x005000b0$/;"	l
+str11	tests/many/many.asm	/^str11: .asciiz "num of chars printed to file:"				#at 0x005000dc$/;"	l
+str12	tests/many/many.asm	/^str12: .asciiz "\\nBye!:D"			#at 0x005000fc$/;"	l
+str13	tests/many/many.asm	/^str13: .asciiz "You should see:\\naaa\\nbbbbbbb\\nccc\\nbbbbbbb\\nccc\\nccc\\nfor those strings\\/;"	l
+str14	tests/many/many.asm	/^str14: .asciiz "\\nTesting for .half,.byte\\n"	#at 0x00500150$/;"	l
+str15	tests/many/many.asm	/^str15: .asciiz "For half, the output should be: 65539 in decimal, and you have:"	#at 0x0050016c$/;"	l
+str16	tests/many/many.asm	/^str16: .asciiz "\\nFor byte, the output should be: 16909059 in decimal, and you have:"	#at 0x005/;"	l
+str2	tests/many/many.asm	/^str2: .asciiz "Please enter a char:\\n"				#at 0x00500024$/;"	l
+str3	tests/many/many.asm	/^str3: .asciiz "The char you entered is:"			#at 0x0050003C$/;"	l
+str4	tests/many/many.asm	/^str4: .asciiz "\\nTests for .ascii\\n"				#at 0x00500058$/;"	l
+str5	tests/many/many.asm	/^str5: .ascii "aaa\\n"						#at 0x0050006C$/;"	l
+str6	tests/many/many.asm	/^str6: .ascii "bbbbbbb\\n"						#at 0x00500070$/;"	l
+str7	tests/many/many.asm	/^str7: .asciiz "ccc\\n"						#at 0x00500078$/;"	l
+str8	tests/many/many.asm	/^str8: .asciiz "Testing for fileIO syscalls\\n"				#at 0x00500080$/;"	l
+str9	tests/many/many.asm	/^str9: .asciiz "\/tmp\/file.txt"				#at 0x005000a0$/;"	l
+sw	fibtest/fib.asm	/^sw $ra, 8($sp)$/;"	l
+sw	fibtest/fib.asm	/^sw $s0, 4($sp)$/;"	l
+sw	fibtest/fib.asm	/^sw $s1, 0($sp)$/;"	l
+sw	tests/fib/fib.asm	/^sw $ra, 8($sp)$/;"	l
+sw	tests/fib/fib.asm	/^sw $s0, 4($sp)$/;"	l
+sw	tests/fib/fib.asm	/^sw $s1, 0($sp)$/;"	l
+sw	tests/lw_sw/lw_sw.asm	/^sw $s0, 4($s1) $/;"	l
+swl	lwlr_swlr_1/lwlr_swlr_1.asm	/^swl $s2, 2($s1) $/;"	l
+swl	lwlr_swlr_2/lwlr_swlr_2.asm	/^swl $s2, 5($s1) $/;"	l
+swr	lwlr_swlr_1/lwlr_swlr_1.asm	/^swr $s2, 5($s1) $/;"	l
+swr	lwlr_swlr_2/lwlr_swlr_2.asm	/^swr $s2, 2($s1) $/;"	l
+syscall	fibtest/fib.asm	/^syscall$/;"	l
+syscall	lwlr_swlr_1/lwlr_swlr_1.asm	/^syscall$/;"	l
+syscall	lwlr_swlr_2/lwlr_swlr_2.asm	/^syscall$/;"	l
+syscall	tests/a-plus-b/a-plus-b.asm	/^syscall$/;"	l
+syscall	tests/fib/fib.asm	/^syscall$/;"	l
+syscall	tests/lw_sw/lw_sw.asm	/^syscall$/;"	l
